@@ -1,0 +1,12 @@
+name: IO-Tokenized-Scalar
+version: 0.05
+abstract: Extension of IO::Scalar allowing tokenized input
+author: Leo Cacciari, <hobbit@cpan.org>
+license: perl
+distribution_type: module
+requires:
+  perl: 5.6.0
+no_index:
+  directory:
+    - inc
+generated_by: Module::Install version 0.29
